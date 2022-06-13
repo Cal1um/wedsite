@@ -1,0 +1,22 @@
+body {background-color: thistle;}
+
+h1 {
+    text-align: center;
+    color: brown;
+    border-style: solid;
+    border-color: crimson;
+    background-color: azure;
+    margin-right: 250px;
+    margin-left: 250px;
+    border-width: 5px;
+}
+h1:hover{
+color: blue;
+background-color: aqua;
+}
+h2 {
+    text-align: center;
+}
+h2 Click {
+    color: blue;
+}
